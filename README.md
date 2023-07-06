@@ -30,7 +30,7 @@ The objective of the project is to provide a model that is capable of classifyin
 
 The objective of the project was to explore the Netflix platform regarding Movies & TV Shows. I wanted to know the number of Movies & TV Shows on the platform, the number of movies produced by different countries by year, and which ratings are the most prevalent, whether it be a Movie or a TV Show, to determine if the platform as a whole is appropriate. 
 
-![alt text]([https://github.com/ahmedabubakr92/Netflix-Dashboard/blob/main/Netflix.png](https://github.com/ahmedabubakr92/Ahmed-Portfolio/blob/main/Netflix.png))
+![Netflix](Netflix.png)
 
 
 - __Term Deposit Marketing__: https://github.com/ahmedabubakr92/Term-Deposit-Marketing
