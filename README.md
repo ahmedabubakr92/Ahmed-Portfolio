@@ -32,6 +32,21 @@ The objective of the project was to explore the Netflix platform regarding Movie
 
 ![Netflix](https://github.com/ahmedabubakr92/Ahmed-Portfolio/blob/main/Netflix.png)
 
+## [Project 4: E-Commerce Sales Dashboard Project Overview](https://github.com/ahmedabubakr92/ecommerce_dashboard)
+
+A U.S. based E-Commerce Sales Company wants to design a Sales Dashboard summarizing the data leading to gaining insights promptly and easily. The company specifically wanted to analyze the sales based on various products, segments, and periods of time such as yearly and monthly.
+
+What I've done for the project is the following:
+
+Transformed and processed client’s data by using DAX and Excel to ensure data completeness and validity.
+Consulted with the client to determine the best metrics to be displayed on the final product.
+Created a dashboard with Power BI to help the client measure different KPI’s related to sales, quantities, and profit margin.
+Provided technical insights on how the client can fully utilize their data by introducing different technologies.
+
+Here's a picture of the result:
+
+![E-Commerce Sales Dashboard](https://github.com/ahmedabubakr92/Ahmed-Portfolio/assets/81285551/a53f6767-e75d-4ef7-a418-659851935ed1)
+
 
 - __Term Deposit Marketing__: https://github.com/ahmedabubakr92/Term-Deposit-Marketing
 - __Potential Talents__: https://github.com/ahmedabubakr92/Potential-Talents
